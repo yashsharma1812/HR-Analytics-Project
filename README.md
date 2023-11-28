@@ -50,5 +50,8 @@ Refer to the respective test documents for Tableau and Power BI for detailed tes
 
 - No. of Employees for Each Job Role for Different Job Satisfaction Ratings: Explores the correlation between job roles and satisfaction ratings.
 
+![HR ANALYTICS DASHBOARD](https://github.com/yashsharma1812/HR-Analytics-Project/assets/145771141/70bf5878-025f-476a-9992-dfc71b766e23)
 
-                    If you have any queries regarding the project, feel free to contact me at - sharma.yash4389@gmail.com
+![Screenshot 2023-11-29 001526](https://github.com/yashsharma1812/HR-Analytics-Project/assets/145771141/39ce322d-707c-4331-9843-df1e368ce7d2)
+
+       If you have any queries regarding the project, feel free to contact me at - sharma.yash4389@gmail.com
